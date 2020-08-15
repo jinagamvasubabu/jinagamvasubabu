@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vasu</h1>
-<h3 align="center">Lazy Coder 🕶</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinagamvasubabu" alt="jinagamvasubabu" /> </p>
 
-- 🔭 I’m currently working on [polyfetcher](https://github.com/jinagamvasubabu/polyfetcher)
+- 🔭 I’m currently working on [golang open source projects](https://github.com/jinagamvasubabu?tab=repositories)
 
 - 🌱 I’m currently learning **everything in go**
 
