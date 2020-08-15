@@ -1,4 +1,5 @@
-<h1 align="center">Namaskaram 🙏🙏🙏, I'm Vasu from India 🇮🇳🇮🇳 </h1>
+<h1 align="center">Namaskaram 🙏</h1>
+<h1 align="center">I'm Vasu from India 🇮🇳 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinagamvasubabu" alt="jinagamvasubabu" /> </p>
 
 - 🔭 I’m currently working on [golang open source projects](https://github.com/jinagamvasubabu?tab=repositories)
