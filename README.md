@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Vasu</h1>
+<h1 align="center">Namaskaram 🙏🙏🙏, I'm Vasu from India 🇮🇳🇮🇳 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinagamvasubabu" alt="jinagamvasubabu" /> </p>
 
 - 🔭 I’m currently working on [golang open source projects](https://github.com/jinagamvasubabu?tab=repositories)
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jinagamvasubabu@gmail.com**
 
-- ⚡ Fun fact **I code mainly on weekends**
+- ⚡ Fun fact **I code mainly on weekends with Biryani 🍛🍛🍛**
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
