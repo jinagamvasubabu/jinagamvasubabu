@@ -1,5 +1,7 @@
-<h1 align="center">Namaskaram 🙏 I'm Vasu from India 🇮🇳</h1>
+<h1 align="center">Hello <img
+src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" />        I'm Vasu from India 🇮🇳</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinagamvasubabu" alt="jinagamvasubabu" /> </p>
+
 
 - 🔭 I’m currently working on [golang open source projects](https://github.com/jinagamvasubabu?tab=repositories)
 
@@ -14,6 +16,8 @@
 - 📫 How to reach me **jinagamvasubabu@gmail.com**
 
 - ⚡ Fun fact **I code mainly on weekends with Biryani 🍛🍛🍛**
+
+![Dancing Gopher](http://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif) ![Party Gopher](http://static.velvetcache.org/pages/2018/06/13/party-gopher/party-gopher.gif)
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
