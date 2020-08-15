@@ -18,12 +18,7 @@ src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="
 
 - ⚡ Fun fact **I code mainly on weekends with Biryani 🍛🍛🍛**
 
-<h1 align="center">
-  <img
-src="http://static.velvetcache.org/pages/2018/06/13/party-gopher/dancing-gopher.gif"/>
-  <img
-src="http://static.velvetcache.org/pages/2018/06/13/party-gopher/party-gopher.gif"/>
-</h1>
+
 
 
 # Blog posts
