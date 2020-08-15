@@ -1,5 +1,5 @@
 <h1 align="center"> Hello <img src="https://github.com/blackcater/blackcater/raw/master/images/Hi.gif" height="32" /> I'm Vasu from India 🇮🇳</h1>
-<h1 align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"><h1>
+<h1 align="center"><img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400"></h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinagamvasubabu" alt="jinagamvasubabu" /> </p>
 
 
