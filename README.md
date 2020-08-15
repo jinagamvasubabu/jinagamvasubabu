@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [hangoutdude.com](hangoutdude.com)
 
-- 📝 I regulary write articles on [hangoutdude.com](hangoutdude.com)
+- 📝 I regulary write articles on [Medium](https://medium.com/@jinagamvasubabu) and [Dev.to](https://dev.to/jinagamvasubabu)
 
 - 💬 Ask me about **go, java, microservices, cloudnative**
 
