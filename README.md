@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I code mainly on weekends**
 
-### Blogs posts
+# Blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
