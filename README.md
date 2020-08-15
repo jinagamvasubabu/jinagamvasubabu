@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **everything in go**
 
-- 👨‍💻 All of my projects are available at [hangoutdude.com](hangoutdude.com)
+- 👨‍💻 All of my projects are available at [hangoutdude.com](https://hangoutdude.com)
 
 - 📝 I regulary write articles on [Medium](https://medium.com/@jinagamvasubabu) and [Dev.to](https://dev.to/jinagamvasubabu)
 
