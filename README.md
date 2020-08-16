@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **everything in go**
 
-- 👨‍💻 All of my projects are available at [hangoutdude.com](https://hangoutdude.com)
+- 👨‍💻 I am one of the top contributors of most acclaimed rule based system in golang [Grule rule engine](https://github.com/hyperjumptech/grule-rule-engine/graphs/contributors)
 
 - 📝 I regulary write articles on [Medium](https://medium.com/@jinagamvasubabu) and [Dev.to](https://dev.to/jinagamvasubabu)
 
