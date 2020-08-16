@@ -21,10 +21,15 @@
 
 
 # My Contributions:
-![Vasu github stats](https://github-readme-stats.vercel.app/api/?username=jinagamvasubabu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<p align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/?username=jinagamvasubabu&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
+</a>
 
-# Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jinagamvasubabu)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinagamvasubabu&layout=compact&hide=html" />
+</a>
+</p>
 
 # My Interesting Projects
 ![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=jinagamvasubabu&repo=github-readme-stats&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
