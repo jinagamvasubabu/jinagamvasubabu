@@ -9,7 +9,7 @@
 
 - 👨‍💻 I am one of the top contributors of most acclaimed rule based system in golang [Grule rule engine](https://github.com/hyperjumptech/grule-rule-engine/graphs/contributors)
 
-- 📝 I regulary write articles on [Medium](https://medium.com/@jinagamvasubabu) and [Dev.to](https://dev.to/jinagamvasubabu)
+- 📝 I regulary write articles on [hangoutdude](hangoutdude.com)
 
 - 💬 Ask me about **go, java, microservices, cloudnative**
 
